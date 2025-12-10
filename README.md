@@ -34,7 +34,7 @@ Features
 Project Structure
 
 
-MedicsWorld/
+ MedicsWorld/
 ├── assets/
 │ ├── css/
 │ ├── img/
