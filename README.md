@@ -2,7 +2,7 @@ MedicsWorld Website is a responsive, modern website designed to promote communit
 
 
  Live Demo
-[Visit MedicsWorld Live](https://admirable-tiramisu-dec472.netlify.app/)
+[Visit MedicsWorld Live](https://medicsworld-demo.netlify.app/)
 
 
  Technologies Used
