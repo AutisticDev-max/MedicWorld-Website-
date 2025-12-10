@@ -34,7 +34,8 @@ Features
 Project Structure
 
 
-```MedicsWorld/
+
+```plaintext 
 ├── assets/
 │ ├── css/
 │ ├── img/
@@ -46,6 +47,7 @@ Project Structure
 ├── team.html
 ├── blog.html
 └── contact.html ```
+
 
 Key Takeaways
 This project demonstrates my ability to:  
