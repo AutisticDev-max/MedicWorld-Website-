@@ -34,20 +34,18 @@ Features
 Project Structure
 
 
-
-```plaintext 
+MedicsWorld/
 ├── assets/
-│ ├── css/
-│ ├── img/
-│ ├── js/
-│ └── vendor/
+│   ├── css/
+│   ├── img/
+│   ├── js/
+│   └── vendor/
 ├── index.html
 ├── about.html
 ├── services.html
 ├── team.html
 ├── blog.html
-└── contact.html ```
-
+└── contact.html
 
 Key Takeaways
 This project demonstrates my ability to:  
