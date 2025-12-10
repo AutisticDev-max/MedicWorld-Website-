@@ -56,7 +56,11 @@ This project demonstrates my ability to:
 - Use popular JS libraries to enhance user experience.  
 
 
-
+Author
+Abdulnasir Nusaiba
+- Web Developer & Designer  
+- Email: [nusratnaseerj@gmail.com]
+- LinkedIn: [https://linkedin.com/in/abdulnasir-nusaybah-b788b3364]
 
 
 
